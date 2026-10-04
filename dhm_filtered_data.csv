@@ -1,0 +1,89 @@
+id,name,basin,district,type,status_category,delayMinutes,latestTime
+4651,Jyagdi Khola at Dangsing,Narayani,Palpa,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5675,Kandha River at Mudhabazar,Mohana,KAILALI,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4630,Karai River,Karnali,Surkhet,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+86,Karnali at Asaraghat,Karnali,Achham,Both,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+35,Karnali at Chisapani ,Karnali,Kailali,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4689,Kothi river at Lavani,Tinau,Kapilbastu,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4654,Madi river at Benipatan,Narayani,TANAHU,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5688,Manusmara(Soti) River at Barathahawa,Bagmati,SARLAHI,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+186,Marsyangdi at Bhakundabesi,Narayani,Lamjung,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+246,Mohana River at Malakheti,Mohana,Kailali,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5615,Pathariya River at Janakinagar,Mohana Basin,kailali,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4644,Rangsing Khola at Tinkunne,West Rapti,Arghakhanchi,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5121,Ratu River at BP Highway,Ratu,DHANUSA,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5690,Roshi Khola at Kavre,Koshi,KAVREPALANCHOK,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+69,Roshi Khola at Panauti,Koshi,KAVREPALANCHOK,Both,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4599,Rupali Gad at Rupal,Mahakali,Dadeldhura,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4624,Sailigad River(259.1),,Doti,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4617,Sakayal Gad at Dadaban,Karnali,Dadeldhura,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5331,Salinadi Sankhu Telemetry,Bagmati,Kathmandu,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5526,Sardu Khola at Madan Bhandari Highway,Keshaliya,Sunsari,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+208,Seti Khola at SetiBeni,Narayani,Syangja,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5527,Seuti Khola at Bihibare Bazar,Keshaliya,Sunsari,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4602,Sihali River ,Mahakali,Kanchanpur,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4615,Sunigad River,Karnali,Bajhang,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+207,Sunkoshi River at Hampachuwar,Koshi,Bhojpur,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+243,Sunkoshi at Khurkot,Koshi,Sindhuli,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5528,Sunsari Khola at EW Highway,Keshaliya,Sunsari,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4659,Tadi Khola at Rautar,Narayani,Nuwakot,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5575,Thuli Bheri at Tripurakot,Bheri,Dolpa,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+4781,Trishuli River at Kali Khola,Narayani,Chitwan,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5705,Trishuli at Galchi,Narayani,,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+5007,West Rapti River at Raptisonari ,West Rapti,Banke,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+229,West Seti at Banga,Karnali,Achham,River,On-Time (<= 10m),6,2026-10-04T08:55:00+00:00
+233,Ridi Khola at Satmure,Narayani,Palpa,River,On-Time (<= 10m),10,2026-10-04T08:51:54+00:00
+855,Mane Bhanjyang,Koshi,OKHALDHUNGA,Rainfall,Critical (> 1h),61,2026-10-04T08:00:00+00:00
+436,Manusmara,Lokhandeni,SARLAHI,Rainfall,Critical (> 1h),61,2026-10-04T08:00:00+00:00
+739,Sidhara,,Arghakhachi ,Rainfall,Critical (> 1h),61,2026-10-04T08:00:00+00:00
+859,Tumlingtar,Koshi,SANKHUWASABHA,Rainfall,Critical (> 1h),61,2026-10-04T08:00:00+00:00
+5674,Radha river at EW High Way,,KANCHANPUR,River,Critical (> 1h),66,2026-10-04T07:55:00+00:00
+104,Sunkoshi at Pachuwarghat,Koshi,Kavrepalanchowk,Both,Critical (> 1h),66,2026-10-04T07:55:00+00:00
+742,Baldyanggadi,Tinau,Palpa ,Rainfall,Critical (> 1h),71,2026-10-04T07:50:00+00:00
+881,"Rajuwara, Pyuthan",West Rapti,Pyuthan,Rainfall,Critical (> 1h),71,2026-10-04T07:50:00+00:00
+83,Thori,Narayani,PARSA,Rainfall,Critical (> 1h),71,2026-10-04T07:50:00+00:00
+4906,Kharpu Khola HS,Karnali,Humla,River,Critical (> 1h),86,2026-10-04T07:35:00+00:00
+187,Mankhola at Belgaun,Karnali,Banke,River,Critical (> 1h),86,2026-10-04T07:35:00+00:00
+833,Beljhundi (Manikapur),Babai,Dang,Rainfall,Critical (> 1h),101,2026-10-04T07:20:00+00:00
+5638,Tilicho,,MANANG,Rainfall,Critical (> 1h),111,2026-10-04T07:10:00+00:00
+5127,Chandi Khola at Chapur ,Bagmati,Rautahat,River,Critical (> 1h),116,2026-10-04T07:05:00+00:00
+485,Damak,Kankai,Jhapa,Rainfall,Critical (> 1h),121,2026-10-04T07:00:00+00:00
+832,Seulibang,West Rapti,Pyuthan,Rainfall,Critical (> 1h),121,2026-10-04T07:00:00+00:00
+331,Shaktikhor,Narayani,CHITWAN,Rainfall,Critical (> 1h),121,2026-10-04T07:00:00+00:00
+457,Siruwa,Koshi,SOLUKHUMBU,Rainfall,Critical (> 1h),121,2026-10-04T07:00:00+00:00
+166,Humla Karnali at Lalighat,Karnali,Kalikot,River,Critical (> 1h),126,2026-10-04T06:55:00+00:00
+182,Daaram Khola at Wamitaksar,Narayani,Baglung,River,Critical (> 1h),136,2026-10-04T06:45:00+00:00
+74,Bahun Tiplung,Kamala,Sindhuli,Rainfall,Critical (> 1h),136,2026-10-04T06:45:00+00:00
+4619,Budhiganga River at Kakarsant,Karnali,Achham,River,Critical (> 1h),176,2026-10-04T06:05:00+00:00
+681,Thakmarpha,Narayani,MUSTANG,Rainfall,Critical (> 1h),181,2026-10-04T06:00:00+00:00
+46,Mai Pokhari,Kankai,Ilam,Rainfall,Critical (> 1h),211,2026-10-04T05:30:00+00:00
+5522,Chadaha Khola at  Belghari ,Kamala,Sindhuli,River,Critical (> 1h),216,2026-10-04T05:25:00+00:00
+845,Shilinge,Narayani,MAKWANPUR,Rainfall,Critical (> 1h),261,2026-10-04T04:40:00+00:00
+756,Khudi Bazar,Narayani,LAMJUNG,Rainfall,Critical (> 1h),301,2026-10-04T04:00:00+00:00
+4680,MaiKhola at Chisapani,Kankai,Ilam,River,Critical (> 1h),356,2026-10-04T03:05:00+00:00
+206,Marin Khola at Kusuntar,Bagmati,Sindhuli,Both,Critical (> 1h),356,2026-10-04T03:05:00+00:00
+298,Dadimadi,Karnali,DAILEKH,Rainfall,Critical (> 1h),366,2026-10-04T02:55:00+00:00
+5563,Gauradaha ,Kankai,Jhapa,Rainfall,Critical (> 1h),371,2026-10-04T02:50:00+00:00
+806,Panchamul,Narayani,SYANGJA,Rainfall,Critical (> 1h),371,2026-10-04T02:50:00+00:00
+89,Lamahi,West Rapti,Dang,Rainfall,Critical (> 1h),376,2026-10-04T02:45:00+00:00
+508,Binayak,Mahakali,BAITADI,Rainfall,Critical (> 1h),421,2026-10-04T02:00:00+00:00
+277,Chisapanigadi,Narayani,Makwanpur,Rainfall,Critical (> 1h),471,2026-10-04T01:10:00+00:00
+4668,Gurjakhani,Narayani,MYAGDI,Rainfall,Critical (> 1h),521,2026-10-04T00:20:00+00:00
+5120,Ratu River at Lalghad,Ratu,DHANUSA,River,Critical (> 1h),676,2026-10-03T21:45:00+00:00
+792,Namrung,,GORKHA,Rainfall,Critical (> 1h),701,2026-10-03T21:20:00+00:00
+495,Kakerpakha,Mahakali,BAITADI,Rainfall,Critical (> 1h),741,2026-10-03T20:40:00+00:00
+5298,Chandrapur.,Bagmati,Rautahat,Rainfall,Critical (> 1h),891,2026-10-03T18:10:00+00:00
+5474,Rawa Khola at Simle Dovan DS,Koshi,Khotang,River,Critical (> 1h),1036,2026-10-03T15:45:00+00:00
+161,Bheri at Jamu,Karnali,Surkhet,River,Critical (> 1h),1066,2026-10-03T15:15:00+00:00
+41,Aadhi Khola at Borlangpul (Rainfall),Narayani,Syangja,Both,Critical (> 1h),1101,2026-10-03T14:40:00+00:00
+259,Bagmati River at Sundarijal Bridge,Bagmati,Kathmandu,River,Critical (> 1h),1186,2026-10-03T13:15:00+00:00
+714,Bhairahawa (Agric),Tinau,Rupandehi,Rainfall,Critical (> 1h),1261,2026-10-03T12:00:00+00:00
+504,Dhaulatiya (Dallekhdhar),Mahakali,DARCHULA,Rainfall,Critical (> 1h),1361,2026-10-03T10:20:00+00:00
+415,Tikathali,Bagmati,LALITPUR,Rainfall,Critical (> 1h),1511,2026-10-03T07:50:00+00:00
+594,Kaigaun,Karnali,DOLPA,Rainfall,Critical (> 1h),1801,2026-10-03T03:00:00+00:00
+210,Mewa Khola at Taplejung,Koshi,Taplejung,River,Critical (> 1h),1826,2026-10-03T02:35:00+00:00
+553,DUMRAKOT,Seti,DOTI,Rainfall,Critical (> 1h),1831,2026-10-03T02:30:00+00:00
+583,Mangri,Karnali,MUGU,Rainfall,Critical (> 1h),1881,2026-10-03T01:40:00+00:00
+106,Tamakoshi at Busti,Koshi,Dolakha,Both,Critical (> 1h),1906,2026-10-03T01:15:00+00:00
+5535,Ninda khola at  East West Highway,Mechi,Jhapa,River,Critical (> 1h),1986,2026-10-02T23:55:00+00:00
+160,Mugu Karnali  at Dhain,Karnali,,River,Critical (> 1h),2776,2026-10-02T10:45:00+00:00
